@@ -12,7 +12,7 @@ namespace Lab12
         {
             Krug.Length(10);
             Krug.Square(10);
-            Krug.Inside(3,3,1,0,0);
+            Krug.Inside(3,3,5,0,0);
 
             Console.ReadKey();
         }
